@@ -1,6 +1,6 @@
 %define		_name justwhite
 Summary:	X11 cursor theme - justwhite
-Summary(pl.UTF-8):   Notyw kursorów dla X11 - justwhite
+Summary(pl.UTF-8):	Notyw kursorów dla X11 - justwhite
 Name:		XcursorTheme-%{_name}
 Version:	0.2
 Release:	1
