@@ -1,6 +1,6 @@
 %define		_name justwhite
 Summary:	X11 cursor theme - justwhite
-Summary(pl):	Notyw kursorÛw dla X11 - justwhite
+Summary(pl.UTF-8):   Notyw kursor√≥w dla X11 - justwhite
 Name:		XcursorTheme-%{_name}
 Version:	0.2
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 A gradiented, white/gray cursor theme.
 
-%description -l pl
-Szaro-bia≥y motyw kursorÛw z gradientem.
+%description -l pl.UTF-8
+Szaro-bia≈Çy motyw kursor√≥w z gradientem.
 
 %prep
 
